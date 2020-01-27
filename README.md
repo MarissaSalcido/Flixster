@@ -18,7 +18,7 @@
 
 ### App Walkthough GIF
 
-<img src="https://imgur.com/gallery/6ZhQwjS" width=250><br>
+<img src="https://i.imgur.com/s2O9gEb.gif" width=250><br>
 
 ### Notes
 
